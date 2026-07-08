@@ -1,9 +1,1 @@
-{
-  "name": "ACHA Flight Companion",
-  "short_name": "ACHA Flight",
-  "start_url": "/acha-flight-companion/",
-  "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
-  "icons": []
-}
+{"name":"ACHA Flight Companion","short_name":"ACHA Flight","start_url":"/acha-flight-companion/","display":"standalone","background_color":"#f8fafc","theme_color":"#0f172a","icons":[]}
