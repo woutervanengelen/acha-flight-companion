@@ -17,7 +17,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-      - run: npm install
+      - run: npm ci --prefer-offline --no-audit --fund=false
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
